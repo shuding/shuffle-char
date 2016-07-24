@@ -1,4 +1,4 @@
-# Char shuffling for React
+# Char Shuffling for React
 
 `npm i shuffle-char -S`
 
