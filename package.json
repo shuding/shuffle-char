@@ -1,0 +1,25 @@
+{
+  "name": "shuffle-char",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/quietshu/shuffle-char.git"
+  },
+  "keywords": [
+    "react"
+  ],
+  "author": "Shu Ding",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/quietshu/shuffle-char/issues"
+  },
+  "homepage": "https://github.com/quietshu/shuffle-char#readme",
+  "dependencies": {
+    "react": "^15.2.1"
+  }
+}
