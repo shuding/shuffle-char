@@ -4,6 +4,10 @@
 
 ## usage
 
+```js
+import Shu from 'shuffle-char'
+```
+
 ```jsx
 <h1>
   <Shu on={running} charset='a-zA-Z_' escape='()' idle={80}>Hack(FDU)</Shu>
