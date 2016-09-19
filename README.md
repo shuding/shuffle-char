@@ -18,6 +18,23 @@ import Shu from 'shuffle-char'
 </h2>
 ```
 
-Result (`running := true -> false`):
+## demo (`running := true -> false`):
 
 ![screenshot](screenshot.gif)
+
+## api
+
+Props supported:  
+- `on`: boolean
+    If `true` the animation will keep running, else it will keep as the default value.
+- `charset`: string
+    `'a-z'` / `'A-Z'` / `'0-9'` + any characters. e.g. `'a-zA-Z_'` includes all English letters and underscore.
+- `escape`: string
+    Characters excluded from the `charset` above. e.g. `charset='a-z'` and `escape='x'` includes all lowercase letters exclude `x`.
+- `idle`: number
+    Animation idle in ms.
+
+## license 
+
+The MIT license.
+
