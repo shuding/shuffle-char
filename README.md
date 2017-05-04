@@ -1,6 +1,6 @@
 # Char Shuffling for React
 
-![](https://img.shields.io/npm/v/npm.svg?style=flat)
+![](https://img.shields.io/npm/v/shuffle-char.svg?style=flat)
 
 `npm i shuffle-char -S` or `yarn add shuffle-char`
 
