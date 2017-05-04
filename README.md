@@ -12,11 +12,11 @@ import Shuf from 'shuffle-char'
 
 ```jsx
 <h1>
-  <Shuf on={running} charset='a-zA-Z_' escape='()' idle={80}>Hack(FDU)</Shu>
+  <Shuf on={running} charset='a-zA-Z_' escape='()' idle={80}>Hack(FDU)</Shuf>
 </h1>
 <h2>
-  <Shuf on={running} charset='0-9' idle={80}>150</Shu>+ teams,
-  <Shuf on={running} charset='0-9' idle={80}>500</Shu>+ participants
+  <Shuf on={running} charset='0-9' idle={80}>150</Shuf>+ teams,
+  <Shuf on={running} charset='0-9' idle={80}>500</Shuf>+ participants
 </h2>
 ```
 
